@@ -1,6 +1,5 @@
 VERSION = 5
 PATCHLEVEL = 4
-SUBLEVEL = 259
 
 headers_install:
 	@mkdir -p $(O)/usr/include
